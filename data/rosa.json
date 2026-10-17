@@ -39,6 +39,81 @@
       "numero": "555",
       "nome": "Alex Ventre",
       "ruolo": "Difensore"
+    },
+    {
+      "numero": "3",
+      "nome": "Gabriel Alice",
+      "ruolo": "Difensore"
+    },
+    {
+      "numero": "2",
+      "nome": "Salvatore Sposato",
+      "ruolo": "Difensore"
+    },
+    {
+      "numero": "5",
+      "nome": "Alex Montuoso",
+      "ruolo": "Centrocampista"
+    },
+    {
+      "numero": "5",
+      "nome": "Angelo Gallo",
+      "ruolo": "Centrocampista"
+    },
+    {
+      "numero": "5",
+      "nome": "Karol Alice",
+      "ruolo": "Centrocampista"
+    },
+    {
+      "numero": "6",
+      "nome": "Giovanni Rose",
+      "ruolo": "Centrocampista"
+    },
+    {
+      "numero": "7",
+      "nome": "Antonio Gaccione",
+      "ruolo": "Centrocampista"
+    },
+    {
+      "numero": "5",
+      "nome": "Matteo Scaramuzzo",
+      "ruolo": "Centrocampista"
+    },
+    {
+      "numero": "6",
+      "nome": "Loris Lento",
+      "ruolo": "Centrocampista"
+    },
+    {
+      "numero": "8",
+      "nome": "Alessio Guido",
+      "ruolo": "Centrocampista"
+    },
+    {
+      "numero": "4",
+      "nome": "Pasquale Gallo",
+      "ruolo": "Attaccante"
+    },
+    {
+      "numero": "4",
+      "nome": "Danilo Pucci",
+      "ruolo": "Attaccante"
+    },
+    {
+      "numero": "4",
+      "nome": "Daniele Spezzano",
+      "ruolo": "Attaccante"
+    },
+    {
+      "numero": "4",
+      "nome": "Thomas Conforti",
+      "ruolo": "Attaccante"
+    },
+    {
+      "numero": "4",
+      "nome": "Angelo Servino",
+      "ruolo": "Attaccante"
     }
   ]
 }
